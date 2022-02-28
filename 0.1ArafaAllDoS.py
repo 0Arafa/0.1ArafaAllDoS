@@ -74,3 +74,5 @@ if __name__ == "__main__":
 	if len(argv) == 2:	First_Packet(),banner(),Main()
 	else:	cprint("Usage: python3 "+argv[0]+" <Target_URL>\nExample: python3 "+argv[0]+" http://example.com ","white",attrs=["bold"])
 
+#By: Abd Almoen Arafa (0.1Arafa)
+#Age: 15
